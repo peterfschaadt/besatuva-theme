@@ -553,5 +553,9 @@ ul#faq_list {
 h3.members-headline {
     background-color: #9fb6cd;
     border-left: 5px solid #666;
-    padding: 10px 0 10px 25px;
+    padding: 10px 0 10px 15px;
+}
+
+tr.zebra {
+    background-color: #ededed;
 }
