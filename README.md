@@ -4,7 +4,7 @@ This repository contains the Wordpress theme for the [BES web site](http://besat
 
 ## Contributing
 
-All interested in contributions to the site's theme are encouraged to do so. Those familiar with HTML and CSS may send feature suggestions and pull requests. For support issues, feel free to contact me personally, either through Github or by [email](mailto:pfs8gg@virginia.edu).
+All who are interested in contributing to the site are encouraged to do so. Those familiar with HTML and CSS may send feature suggestions and pull requests. For support issues and any questions or concerns, please feel free to contact me personally, either through Github or by [email](mailto:pfs8gg@virginia.edu).
 
 ## License
 (The MIT License)
