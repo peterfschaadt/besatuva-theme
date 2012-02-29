@@ -544,6 +544,20 @@ img.wp-smiley {
 
 /******* MAIN PAGES *******/
 
+/* About page */
+h3.about-headline {
+    background-color: #9fb6cd;
+    border-left: 5px solid #666;
+    padding: 10px 0 10px 15px;
+}
+
+/* Links page */
+h3.link-headline {
+    background-color: #9fb6cd;
+    border-left: 5px solid #666;
+    padding: 10px 0 10px 15px;
+}
+
 /* FAQ page */
 ul#faq_list {
 	list-style-type: none;
