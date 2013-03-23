@@ -1,7 +1,7 @@
     <div class="outer">
 
 	<div id="footer">
-		Copyright &copy; 2012 Business Ethics Society of <a href="http://www.virginia.edu" target="_blank">UVa</a>
+		Copyright &copy; 2013 Business Ethics Society of <a href="http://www.virginia.edu" target="_blank">UVa</a>
 	</div>
 	
 	<div id="credits">
