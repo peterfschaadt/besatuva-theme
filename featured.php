@@ -47,11 +47,12 @@ if(get_theme_option('featured_posts') != '') {
 						</div>
 					 <?php }
 				} else {
+					// Set number of slides in loop
 					for($i = 1; $i <=5; $i++) {
 						?>
 							<div class="imageElement">
 								<h3>Pictures of the Business Ethics Society</h3>
-								<p>These pictures are from our "Hiring, Firing, and Facebook" panel we held in the spring.</p>
+								<p>These are some of the pictures taken at our recent speaking events.</p>
 								<a href="#" title="This is featured post <?php echo $i; ?>" class="open"></a> 
 								<img src="<?php bloginfo('template_directory'); ?>/jdgallery/slides/<?php echo $i; ?>.jpg" class="full" alt="" /> 
 								<img src="<?php bloginfo('template_directory'); ?>/jdgallery/slides/<?php echo $i; ?>.jpg" class="thumbnail" alt="" /> 
